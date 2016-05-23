@@ -1,4 +1,5 @@
 //public chat
+"use strict";
 const esj = angular.module('esj', ['ngDraggable']);
 const emojiList = {
     ':pd_worth:': 'pd_worth.jpg',
